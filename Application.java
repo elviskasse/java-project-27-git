@@ -14,5 +14,10 @@ public class Application {
 		// logic
 		
 	}
+	public void loadData() {
+		// logic
+		//feature-202:changes
+	}
+
 
 }
